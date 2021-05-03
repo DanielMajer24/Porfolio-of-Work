@@ -74,7 +74,7 @@ The techniques I used in the recommender system included:
 ## [Project 5: Visualisating the NGRT Reading Results of Tully State High School](https://danielmajer24.github.io/NGRT_4_Years/)
 ### Project Overview:
 
-The purpose of this project was to inspect the results of the New Group Reading Test of year 7 students over the past 4 years at Tully SHS. Specifically this report assessed various demographic aspects such as gender and indigenous status, but the most important aspect that administators were interested was any patterns regarding the primary school students had arrived from in the catchment. 
+The purpose of this project was to inspect the results of the New Group Reading Test of year 7 students over the past 4 years at Tully SHS. Specifically this report assessed various demographic aspects such as gender and indigenous status, but the most important aspect that administators were interested in was any patterns or at risk groups observed in the primary schools that students had arrived from. 
 
 The techniques I used in this report:
 - Enriched the NGRT data by merging demographic data on student's identification numbers
