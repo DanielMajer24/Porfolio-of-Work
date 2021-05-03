@@ -12,7 +12,6 @@ Principal Component Analysis was used for exploratory analysis and to reduce the
 ![](https://github.com/DanielMajer24/Porfolio-of-Work/blob/main/images/Wine%20PCA%20graph.png)
 
 The classification techniques I used included:
-- (Exploratory Analysis)
 - Naive Bayes
 - Linear Discriminant Analysis
 - Quadratic Discriminant Analysis
@@ -30,9 +29,14 @@ This project was done in R and code can be found [here](https://github.com/Danie
 The purpose of this project was to implement a Vanilla Neural Network (VNN) and compare it to a selected machine learning (ML) algorithm on a supplied time series dataset to predict the Australia’s unemployment rate.
 
 The techniques I used included:
+- Random Forest and Support Vector Machine (SVM) ML algorithm
+![](https://github.com/DanielMajer24/Porfolio-of-Work/blob/main/images/RF%20and%20SVM%20graph.png)
+
 - VNN with 3 hidden layers and a Relu activation
-- Random Forest ML algorithm
-- Support Vector Machine (SVM)
+![](https://github.com/DanielMajer24/Porfolio-of-Work/blob/main/images/NN%20Graph.png)
+
+The final ML model in the comparison with the VNN was the SVM algorithm. The metrics used for the comparison include RSME, RSquared and Mean Absolute Error.
+![](https://github.com/DanielMajer24/Porfolio-of-Work/blob/main/images/NN%20SVM%20results%20Table.png)
 
 This project was done in R and code can be found [here](https://github.com/DanielMajer24/Comparing-a-VNN-to-SVM). 
 
@@ -47,7 +51,10 @@ This project was broken up into two parts:
 
 The techniques I used included:
 - successfully applied SVM using user defined functions
+![](https://github.com/DanielMajer24/Porfolio-of-Work/blob/main/images/SVM%20Graph.png)
 - implemented SVM and XGBoost algothirms on a supervised classfication task using Credit Default Data
+These algorithms were compared using accuracy, error, precision, recall, F1 statistic and AUC.
+![](https://github.com/DanielMajer24/Porfolio-of-Work/blob/main/images/XGBoost%20Vs%20SVM.png)
 
 This project was done in R code for this project can be found [here](https://github.com/DanielMajer24/SVM-Analysis)
 
