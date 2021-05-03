@@ -7,8 +7,12 @@ A list of my completed projects over the last 2 and a half years.
 
 The purpose of this report was to identify the patterns present in the datset by performing principal component analysis and accurately classify the wine type of the dataset using a number of supervised classification techniques.
 
-The exploratory and classification techniques I used included:
-- Principal Component Analysis (Exploratory Analysis)
+Principal Component Analysis was used for exploratory analysis and to reduce the dimensionality of the dataset. 
+
+![](https://github.com/DanielMajer24/Porfolio-of-Work/blob/main/images/Wine%20PCA%20graph.png)
+
+and classification techniques I used included:
+- (Exploratory Analysis)
 - Naive Bayes
 - Linear Discriminant Analysis
 - Quadratic Discriminant Analysis
