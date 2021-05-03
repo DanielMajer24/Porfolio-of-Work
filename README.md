@@ -5,14 +5,14 @@ Below is a sample of my completed projects over the last 2 and a half years.
 ## [Project 1: Supervised Classification Task](https://danielmajer24.github.io/Wine-Classification/)
 ### Project Overview:
 
-The purpose of this report was to identify the patterns present in the datset by performing principal component analysis and accurately classify the wine type of the dataset using a number of supervised classification techniques.
+The purpose of this report was to identify the patterns present in the dataset by performing principal component analysis and accurately classify the wine type of the dataset using a number of supervised classification techniques.
 
 Principal Component Analysis was used for exploratory analysis and to reduce the dimensionality of the dataset. 
 
 ![](/images/wine_pca_graph.png)
 
 The classification techniques I used included:
-- Naive Bayes
+- Naive Bayes Analysis
 - Linear Discriminant Analysis
 - Quadratic Discriminant Analysis
 - k Nearest Neighbour Cluster
@@ -45,14 +45,14 @@ This project was completed in R and can be found [here](https://github.com/Danie
 
 This project was broken up into two parts: 
 
-1) manually implment the Support Vector Machine (SVM) algortihm using user-defined functions
+1) manually implement Support Vector Machine (SVM) algorthim using user-defined functions
 
 2) Compared the performance between SVM and a selected ML algorithm
 
 The techniques I used included:
 - successfully applied SVM using user defined functions to plot the optimal separating hyperplane in the supplied dataset
 ![](/images/svm_graph.png)
-- implemented SVM and XGBoost algothirms on a supervised classfication task using Credit Default Data
+- implemented SVM and XGBoost algorithms on a supervised classfication task using Credit Default Data
 These algorithms were compared using accuracy, error, precision, recall, F1 statistic and AUC.
 ![](/images/xgboost_vs_svm.png)
 
@@ -61,7 +61,7 @@ This project was completed in R and can be found [here](https://github.com/Danie
 ## [Project 4: Using Natural Language Processing to Create a University Textbook Recommender System](https://github.com/DanielMajer24/University-Recommender-System)
 ### Project Overview
 
-The purpose of this project was to gain experience with NLP content-based and dynamic recommender systems in Python. This python notebook contains two working recommender systems, a Static and Dynamic recommender, which recommend the user relavent books from the key words entered into the console.
+The purpose of this project was to gain experience with NLP content-based and dynamic recommender systems in Python. This python notebook contains two working recommender systems, a Static and Dynamic recommender, which recommend the user relevant books from the key words entered into the console.
 
 The techniques I used in the recommender system included:
 - Enriching the data using GoogleBooks and NLA Trove APIs
@@ -74,7 +74,7 @@ The techniques I used in the recommender system included:
 ## [Project 5: Visualisating the NGRT Reading Results of Tully State High School](https://danielmajer24.github.io/NGRT_4_Years/)
 ### Project Overview:
 
-The purpose of this project was to inspect the results of the New Group Reading Test of year 7 students over the past 4 years at Tully SHS. Specifically this report assessed various demographic aspects such as gender and indigenous status, but the most important aspect that administators were interested in was any patterns or at risk groups observed in the primary schools that students had arrived from. 
+The purpose of this project was to inspect the results of the New Group Reading Test of year 7 students over the past 4 years at Tully SHS. Specifically this report assessed various demographic aspects such as gender and indigenous status. However, this report primarily focussed on any patterns or at risk groups observed in the primary schools that students had arrived from over the past 4 years. 
 
 The techniques I used in this report:
 - Enriched the NGRT data by merging demographic data on student's identification numbers
