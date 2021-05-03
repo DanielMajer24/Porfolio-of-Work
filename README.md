@@ -21,12 +21,12 @@ This measured accuracy, error, precision, recall, F1 statistic and AUC to compar
 
 ![](/images/wine_results_table.png)
 
-This project was done in R and code can be found [here](https://github.com/DanielMajer24/Wine-Classification). 
+This project was completed in R and can be found [here](https://github.com/DanielMajer24/Wine-Classification). 
 
 ## [Project 2: Comparing Machine Learning algorithms to a Neural Net in a Regression Task](https://danielmajer24.github.io/Comparing-a-VNN-to-SVM/)
 ### Project Overview:
 
-The purpose of this project was to implement a Vanilla Neural Network (VNN) and compare it to a selected machine learning (ML) algorithm on a supplied time series dataset to predict the Australia’s unemployment rate.
+The purpose of this project was to implement a Vanilla Neural Network (VNN) and compare it to the performance of a selected machine learning (ML) algorithm. The dataset that was supplied was a time series dataset which contained the Australia’s unemployment rate and other supplementary features.
 
 The techniques I used included:
 - Random Forest and Support Vector Machine (SVM) ML algorithm
@@ -38,7 +38,7 @@ The techniques I used included:
 The final ML model in the comparison with the VNN was the SVM algorithm. The metrics used for the comparison include RSME, RSquared and Mean Absolute Error.
 ![](/images/nn_svm_results_table.png)
 
-This project was done in R and code can be found [here](https://github.com/DanielMajer24/Comparing-a-VNN-to-SVM). 
+This project was completed in R and can be found [here](https://github.com/DanielMajer24/Comparing-a-VNN-to-SVM). 
 
 ## [Project 3: Suport Vector Machines and XGBoost Machine Learning Algorithms](https://danielmajer24.github.io/SVM-Analysis/)
 ### Project Overview: 
@@ -56,6 +56,28 @@ The techniques I used included:
 These algorithms were compared using accuracy, error, precision, recall, F1 statistic and AUC.
 ![](/images/xgboost_vs_svm.png)
 
-This project was done in R code for this project can be found [here](https://github.com/DanielMajer24/SVM-Analysis)
+This project was completed in R and can be found [here](https://github.com/DanielMajer24/SVM-Analysis)
 
+## [Project 4: Using Natural Language Processing to Create a University Textbook Recommender System](https://github.com/DanielMajer24/University-Recommender-System)
+
+The purpose of this project was to gain experience with NLP content-based and dynamic recommender systems in Python. This python notebook contains two working recommender systems, a Static and Dynamic recommender, which recommend the user relavent books from the key words entered into the console.
+
+The techniques I used in the recommender system included:
+- Enriching the data using GoogleBooks and NLA Trove APIs
+- Developed text ontology by added a field of education to all texts
+- used ngram_range(2,3) to extract all bi and tri-grams to reduce dimensionality
+- Implemented a KNN clustering and cosine similarity matrix
+
+
+# Data Visualisation
+## [Project 5: Visualisating the NGRT Reading Results of Tully State High School](https://danielmajer24.github.io/NGRT_4_Years/)
+### Project Overview:
+
+The purpose of this project was to inspect the results of the New Group Reading Test of year 7 students over the past 4 years at Tully SHS. Specifically this report assessed various demographic aspects such as gender and indigenous status, but the most important aspect that administators were interested was any patterns regarding the primary school students had arrived from in the catchment. 
+
+The techniques I used in this report:
+- Enriched the NGRT data by merging demographic data on student's identification numbers
+- Displayed a number of clear graphics to identify the at risks subsects over the last 4 years and the reading age distribution for each group. 
+
+Due to child protection and privacy laws the data for this project could not be shared. 
 
