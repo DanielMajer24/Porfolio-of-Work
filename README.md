@@ -40,7 +40,7 @@ The final ML model in the comparison with the VNN was the SVM algorithm. The met
 
 This project was completed in R and can be found [here](https://github.com/DanielMajer24/Comparing-a-VNN-to-SVM). 
 
-## [Project 3: Suport Vector Machines and XGBoost Machine Learning Algorithms](https://danielmajer24.github.io/SVM-Analysis/)
+## [Project 3: Implementing Suport Vector Machines and XGBoost Machine Learning Algorithms](https://danielmajer24.github.io/SVM-Analysis/)
 ### Project Overview: 
 
 This project was broken up into two parts: 
@@ -58,7 +58,7 @@ These algorithms were compared using accuracy, error, precision, recall, F1 stat
 
 This project was completed in R and can be found [here](https://github.com/DanielMajer24/SVM-Analysis)
 
-## [Project 4: Using Natural Language Processing to Create a University Textbook Recommender System](https://github.com/DanielMajer24/University-Recommender-System)
+## [Project 4: Using Natural Language Processing in Python to Create a Recommender System](https://github.com/DanielMajer24/University-Recommender-System)
 ### Project Overview
 
 The purpose of this project was to gain experience with NLP content-based and dynamic recommender systems in Python. This python notebook contains two working recommender systems, a Static and Dynamic recommender, which recommend the user relevant books from the key words entered into the console.
