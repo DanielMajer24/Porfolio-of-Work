@@ -50,7 +50,7 @@ This project was broken up into two parts:
 2) Compared the performance between SVM and a selected ML algorithm
 
 The techniques I used included:
-- successfully applied SVM using user defined functions
+- successfully applied SVM using user defined functions to plot the optimal separating hyperplane in the supplied dataset
 ![](/images/svm_graph.png)
 - implemented SVM and XGBoost algothirms on a supervised classfication task using Credit Default Data
 These algorithms were compared using accuracy, error, precision, recall, F1 statistic and AUC.
