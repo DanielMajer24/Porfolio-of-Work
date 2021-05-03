@@ -31,6 +31,7 @@ This project was done in R and code can be found [here](https://github.com/Danie
 ## [Project 3: Suport Vector Machines and XGBoost Machine Learning Algorithms](https://danielmajer24.github.io/SVM-Analysis/)
 
 This project was broken up into two parts: 
+
 1) manually implment the Support Vector Machine (SVM) algortihm using user-defined functions
 2) Compared the performance between SVM and a selected ML algorithm
 
