@@ -1,5 +1,5 @@
 # Daniel Majer Portfolio
-A list of my completed projects over the last 2 and a half years. 
+Below is a sample of my completed projects over the last 2 and a half years. 
 
 # Machine Learning Projects
 ## [Project 1: Supervised Classification Task](https://danielmajer24.github.io/Wine-Classification/)
@@ -23,7 +23,7 @@ This measured accuracy, error, precision, recall, F1 statistic and AUC to compar
 
 This project was done in R and code can be found [here](https://github.com/DanielMajer24/Wine-Classification). 
 
-## [Project 2: Comparing Machine Learning algorithms to a Neural Net](https://danielmajer24.github.io/Comparing-a-VNN-to-SVM/)
+## [Project 2: Comparing Machine Learning algorithms to a Neural Net in a Regression Task](https://danielmajer24.github.io/Comparing-a-VNN-to-SVM/)
 ### Project Overview:
 
 The purpose of this project was to implement a Vanilla Neural Network (VNN) and compare it to a selected machine learning (ML) algorithm on a supplied time series dataset to predict the Australia’s unemployment rate.
