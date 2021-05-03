@@ -18,9 +18,9 @@ The classification techniques I used included:
 - Quadratic Discriminant Analysis
 - k Nearest Neighbour Cluster
 
-This measured accuracy, recall, precision and F1 statistic to compare the respective models.
+This measured accuracy, error, precision, recall, F1 statistic and AUC to compare the respective models.
 
-![test](https://github.com/DanielMajer24/Porfolio-of-Work/blob/main/images/Wine%20results%20Table.png)
+![](https://github.com/DanielMajer24/Porfolio-of-Work/blob/main/images/Wine%20results%20Table.png)
 
 This project was done in R and code can be found [here](https://github.com/DanielMajer24/Wine-Classification). 
 
